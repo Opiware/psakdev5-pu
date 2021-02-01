@@ -1,0 +1,35 @@
+{
+  "name": "LittlevGL",
+  "description": " LittlevGL provides everything you need to create a Graphical User Interface (GUI) on embedded systems with easy-to-use graphical elements, beautiful visual effects and low memory footprint.",
+  "description_zh": "??",
+  "enable": "PKG_USING_LITTLEVGL",
+  "keywords": [
+    "LittlevGL"
+  ],
+  "category": "??",
+  "author": {
+    "name": "LVGL",
+    "email": "lvgl@lvgl.io",
+    "github": "LVGL"
+  },
+  "license": "MIT License.",
+  "repository": "https://github.com/lvgl/lvgl.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/lvgl/lvgl.git",
+      "filename": "LittlevGL.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/lvgl/lvgl.git",
+      "filename": "LittlevGL.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

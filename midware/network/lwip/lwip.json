@@ -1,0 +1,35 @@
+{
+  "name": "lwip",
+  "description": "lwIP Lightweight TCP/IP stack A small TCP/IP implementation for embedded systems. lwIP is larger than uIP, but provides better throughput. lwIP is now developed by a group of developers distributed world-wide. lwIP is used in many commercial products.",
+  "description_zh": "??",
+  "enable": "PKG_USING_lwip",
+  "keywords": [
+    "lwip"
+  ],
+  "category": "??",
+  "author": {
+    "name": "lwip-tcpip",
+    "email": "",
+    "github": "lwip-tcpip"
+  },
+  "license": "under a BSD-style license",
+  "repository": "https://github.com/lwip-tcpip/lwip.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "lwIP Lightweight TCP/IP stack A small TCP/IP implementation for embedded systems. lwIP is larger than uIP, but provides better throughput. lwIP is now developed by a group of developers distributed world-wide. lwIP is used in many commercial products",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/lwip-tcpip/lwip.git",
+      "filename": "lwip.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/lwip-tcpip/lwip.git",
+      "filename": "lwip.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

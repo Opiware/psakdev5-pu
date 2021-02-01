@@ -1,0 +1,35 @@
+{
+  "name": "rpcxml",
+  "description": " All the code is thread safe.  The data format used by the rpcxml library is described by RFCs (Request for Comments) 1950 to 1952 in the files.",
+  "description_zh": "??",
+  "enable": "PKG_USING_RPCXML",
+  "keywords": [
+    "rpcxml"
+  ],
+  "category": "??",
+  "author": {
+    "name": "Randy J. Ray",
+    "email": "rjray@blackperl.com",
+    "github": "rjray"
+  },
+  "license": "??.",
+  "repository": "https://github.com/rjray/rpc-xml.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/rjray/rpc-xml.git",
+      "filename": "rpcxml.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/rjray/rpc-xml.git",
+      "filename": "rpcxml.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

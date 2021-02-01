@@ -1,0 +1,35 @@
+{
+  "name": "eCLI",
+  "description": "The embedded command line interpreter, cli, allows applications to bind a directory of commands and the associated functions to execute those commands. The features of cli are lightweight, flexible, modular, and cross-platform..",
+  "description_zh": "??",
+  "enable": "PKG_USING_ECLI",
+  "keywords": [
+    "eCLI"
+  ],
+  "category": "??",
+  "author": {
+    "name": "Eclipse Foundation",
+    "email": "emo@eclipse.org",
+    "github": "Eclipse Foundation"
+  },
+  "license": "MIT License.",
+  "repository": "https://github.com/eclipse/eclipse.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/eclipse/eclipse.git",
+      "filename": "eCLI.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/eclipse/eclipse.git",
+      "filename": "eCLI.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

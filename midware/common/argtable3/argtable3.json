@@ -1,0 +1,35 @@
+{
+  "name": "argtable3",
+  "description": "Argtable3 is an open source ANSI C library that parses GNU-style command-line options.",
+  "description_zh": "??",
+  "enable": "PKG_USING_ARGTABLE3",
+  "keywords": [
+    "argtable3"
+  ],
+  "category": "??",
+  "author": {
+    "name": "argtable",
+    "email": "??",
+    "github": "argtable"
+  },
+  "license": "Copyright (C) 1998-2001,2003-2011,2013 Stewart Heitmann.",
+  "repository": "https://github.com/argtable/argtable3.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "Argtable3 is an open source ANSI C library that parses GNU-style command-line options",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/argtable/argtable3.git",
+      "filename": "argtable3.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/argtable/argtable3.git",
+      "filename": "argtable3.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

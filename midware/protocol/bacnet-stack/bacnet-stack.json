@@ -1,0 +1,35 @@
+{
+  "name": "zlib",
+  "description": " BACnet Protocol Stack library provides a BACnet application layer, network layer and media access (MAC) layer communications services.",
+  "description_zh": "??",
+  "enable": "PKG_USING_ZLIB",
+  "keywords": [
+    "zlib"
+  ],
+  "category": "??",
+  "author": {
+    "name": "BACnet Stack",
+    "email": "skarg@users.sourceforge.net",
+    "github": "BACnet Protocol Stack in C"
+  },
+  "license": "??.",
+  "repository": "https://github.com/bacnet-stack/bacnet-stack.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "BACnet Protocol Stack library provides a BACnet application layer, network layer and media access (MAC) layer communications services.",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/bacnet-stack/bacnet-stack.git",
+      "filename": "zlib.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/bacnet-stack/bacnet-stack.git",
+      "filename": "zlib.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

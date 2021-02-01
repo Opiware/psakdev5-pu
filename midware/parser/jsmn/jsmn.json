@@ -1,0 +1,35 @@
+{
+  "name": "jsmn",
+  "description": "Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket.",
+  "description_zh": "??",
+  "enable": "PKG_USING_JSMN",
+  "keywords": [
+    "jsmn"
+  ],
+  "category": "??",
+  "author": {
+    "name": "Serge Zaitsev",
+    "email": "zaitsev.serge@gmail.com",
+    "github": "zserge"
+  },
+  "license": "MIT License.",
+  "repository": "https://github.com/zserge/jsmn.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "jsmn: is a minimalistic JSON parser in C",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/zserge/jsmn.git",
+      "filename": "jsmn.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/zserge/jsmn.git",
+      "filename": "jsmn.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

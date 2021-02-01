@@ -1,0 +1,35 @@
+{
+  "name": "modbus-potato",
+  "description": " C++ Embedded Modbus Library.",
+  "description_zh": "??",
+  "enable": "PKG_USING_MODBUS-POTATO",
+  "keywords": [
+    "modbus-potato"
+  ],
+  "category": "??",
+  "author": {
+    "name": "pelud",
+    "email": "??",
+    "github": "pelud"
+  },
+  "license": "??.",
+  "repository": "https://github.com/pelud/modbus-potato.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "C++ Embedded Modbus Library",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/pelud/modbus-potato.git",
+      "filename": "modbus-potato.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/pelud/modbus-potato.git",
+      "filename": "modbus-potato.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

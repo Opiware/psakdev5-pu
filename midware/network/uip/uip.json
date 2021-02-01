@@ -1,0 +1,35 @@
+{
+  "name": "uip",
+  "description": " uIP is a very small implementation of the TCP/IP stack.",
+  "description_zh": "??",
+  "enable": "PKG_USING_UIP",
+  "keywords": [
+    "uip"
+  ],
+  "category": "??",
+  "author": {
+    "name": "Adam Dunkels",
+    "email": "adam@sics.se",
+    "github": "madler"
+  },
+  "license": "??.",
+  "repository": "https://github.com/adamdunkels/uip.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "uIP is a very small implementation of the TCP/IP stack",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/adamdunkels/uip.git",
+      "filename": "uip.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/adamdunkels/uip.git",
+      "filename": "uip.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

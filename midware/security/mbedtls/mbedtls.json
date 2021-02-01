@@ -1,0 +1,35 @@
+{
+  "name": "mbedtls",
+  "description": "Mbed TLS is a C library that implements cryptographic primitives, X.509 certificate manipulation and the SSL/TLS and DTLS protocols. Its small code footprint makes it suitable for embedded systems.",
+  "description_zh": "??",
+  "enable": "PKG_USING_MBEDTLS",
+  "keywords": [
+    "mbedtls"
+  ],
+  "category": "??",
+  "author": {
+    "name": "Arm Mbed",
+    "email": "??",
+    "github": "Arm Mbed"
+  },
+  "license": "the Apache 2.0 license.",
+  "repository": "https://github.com/ARMmbed/mbedtls.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "Mbed TLS is a C library that implements cryptographic primitives, X.509 certificate manipulation and the SSL/TLS and DTLS protocols. Its small code footprint makes it suitable for embedded systems.",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/ARMmbed/mbedtls.git",
+      "filename": "mbedtls.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/ARMmbed/mbedtls.git",
+      "filename": "mbedtls.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

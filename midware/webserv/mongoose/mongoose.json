@@ -1,0 +1,35 @@
+{
+  "name": "mongoose",
+  "description": " Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.",
+  "description_zh": "??",
+  "enable": "PKG_USING_MONGOOSE",
+  "keywords": [
+    "mongoose"
+  ],
+  "category": "??",
+  "author": {
+    "name": "Cesanta Software",
+    "email": "info@cesanta.com",
+    "github": "Embedded Communication"
+  },
+  "license": "Copyright (c) 2004-2013 Sergey Lyubka, Copyright (c) 2013-2020 Cesanta Software Limited.",
+  "repository": "https://github.com/cesanta/mongoose.git",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "readme": "Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more",
+  "site": [
+    {
+      "version": "??",
+      "URL": "https://github.com/cesanta/mongoose.git",
+      "filename": "mongoose.zip",
+      "VER_SHA": "master"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/cesanta/mongoose.git",
+      "filename": "mongoose.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}
